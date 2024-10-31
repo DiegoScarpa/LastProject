@@ -54,7 +54,7 @@ export default function Uses() {
             <div className="w-full md:w-2/3">
                 <SectionTitle
                     title="Software I use, gadgets I love, and other things I recommend."
-                    description="Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut et massa mi."
+                    description="Gadgets that i use daily"
                 />
             </div>
 

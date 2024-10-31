@@ -21,17 +21,17 @@ export default async function Page() {
                     {/* Row 1 */}
                     <div className="flex flex-col sm:flex-row sm:justify-between sm:gap-4 w-full">
                         <ProjectCard
-                            company="Company 1"
+                            company="Pellets Pilar"
                             description="Creating technology to empower civilians to explore space on their own terms."
                             link="https://company1.com"
                         />
                         <ProjectCard
-                            company="Company 2"
+                            company="AgriMex"
                             description="Innovating solutions for sustainable energy."
                             link="https://company2.com"
                         />
                         <ProjectCard
-                            company="Company 3"
+                            company="PrestaFacil"
                             description="Developing software for healthcare solutions."
                             link="https://company3.com"
                         />
@@ -40,17 +40,17 @@ export default async function Page() {
                     {/* Row 2 */}
                     <div className="flex flex-col sm:flex-row sm:justify-between sm:gap-4 w-full">
                         <ProjectCard
-                            company="Company 4"
+                            company="Microsoft"
                             description="Building web applications for small businesses."
                             link="https://company4.com"
                         />
                         <ProjectCard
-                            company="Company 5"
+                            company="Slack"
                             description="Creating cutting-edge AI solutions."
                             link="https://company5.com"
                         />
                         <ProjectCard
-                            company="Company 6"
+                            company="Vs Code"
                             description="Designing user-friendly mobile applications."
                             link="https://company6.com"
                         />

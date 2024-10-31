@@ -10,12 +10,11 @@ export default async function Page() {
             {/* Left Side: Text Content */}
             <div className="flex flex-col justify-start items-start gap-6 w-full md:w-[464px] order-1 md:order-1">
                 <h1 className="text-4xl font-bold">
-                    I’m Jane. I live in New York City, where I develop the future.
+                    I’m Diego. I live in Salt Lake City, where I develop the future.
                 </h1>
-                {Array.from({ length: 4 }, (_, index) => (
+                {Array.from({ length: 1 }, (_, index) => (
                     <p key={index} className="text-gray-600 dark:text-gray-400 text-sm leading-6">
-                        Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi. Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi...
-                    </p>
+As a passionate developer, I'm always looking for opportunities to build innovative and impactful projects. My work focuses on creating user-friendly applications that blend creativity with technical expertise. I'm particularly interested in web development, user experience, and building applications that solve real-world problems.                    </p>
                 ))}
             </div>
 
@@ -24,7 +23,7 @@ export default async function Page() {
                 {/* Image at the top in mobile view */}
                 <img
                     className="w-full h-[452px] object-cover rounded-lg"
-                    src="src/image/profileimg.jpeg"
+                    src="/image.jpeg"
                     alt="About Image"
                 />
 
@@ -49,7 +48,7 @@ export default async function Page() {
                     {/* Email Section */}
                     <div className="flex items-center border-t border-gray-700 pt-4">
                         <FontAwesomeIcon icon={faEnvelope} className="text-gray-900 dark:text-white w-5 h-5" />
-                        <span className="ml-2 text-gray-900 dark:text-white text-sm">jane@email.com</span>
+                        <span className="ml-2 text-gray-900 dark:text-white text-sm">scarpaagustin@gmail.com</span>
                     </div>
                 </div>
             </div>

@@ -6,21 +6,21 @@ import Work from "@/components/work-card";
 
 const articles = [
     {
-        date: "December 1, 2021",
-        title: 'Lorem ipsum dolor sit amet consectetur',
-        description: 'Vestibulum auctor ornare leo, non suscipit magna interdum eu. Curabitur pellentesque nibh nibh, at maximus ante fermentum sit amet. Pellentesque commodo lacus at sodales sodales. Quisque sagittis orci ut diam condimentum',
+        date: "Pallet Argentina (2023 - Present)",
+        title: 'Software Development',
+        description: 'Collaborated with stakeholders to gather requirements and iteratively improve the platform.',
         link: '#'
     },
     {
-        date: "December 1, 2021",
-        title: 'Lorem ipsum dolor sit amet consectetur',
-        description: 'Vestibulum auctor ornare leo, non suscipit magna interdum eu. Curabitur pellentesque nibh nibh, at maximus ante fermentum sit amet. Pellentesque commodo lacus at sodales sodales. Quisque sagittis orci ut diam condimentum',
+        date: "AgriMex (2023 - Present)",
+        title: 'Software Development',
+        description: 'Developed and maintained the company website, enhancing user experience and optimizing page load times.',
         link: '#'
     },
     {
-        date: "December 1, 2021",
-        title: 'Lorem ipsum dolor sit amet consectetur',
-        description: 'Vestibulum auctor ornare leo, non suscipit magna interdum eu. Curabitur pellentesque nibh nibh, at maximus ante fermentum sit amet. Pellentesque commodo lacus at sodales sodales. Quisque sagittis orci ut diam condimentum',
+        date: "PrestaFacil (2023 - Present)",
+        title: 'Software Development',
+        description: 'Built and maintained a customer-facing loan application website.',
         link: '#'
     }
 ]

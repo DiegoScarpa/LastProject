@@ -10,16 +10,15 @@ const Profile = () => {
             <div className="w-16 h-16 p-2 bg-opacity-90 bg-white rounded-full flex justify-center items-center">
                 <img
                     className="w-15 h-15 rounded-full"
-                    src="https://via.placeholder.com/60x60"
+                    src="/image.jpeg"
                     alt="Profile"
                 />
             </div>
             <div className="text-black dark:text-white text-3xl font-bold leading-9">
-                Software engineer, father, and believer
+                Software engineer
             </div>
             <div className="text-gray-600 dark:text-gray-400 text-base leading-7">
-                Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi Lorem ipsum dolor sit amet consectetur adipiscing elit Ut et massa mi..
-            </div>
+            Hi, I'm Diego! I'm a passionate software engineer specializing in building intuitive user interfaces and efficient backend solutions. I have a strong background in JavaScript, React, and Node.js, and I love creating seamless web experiences. When I'm not coding, you can find me streaming on Twitch or exploring new tech trends.            </div>
             <div className="bg-gray-100 p-2 rounded-md flex gap-3">
                 {/* LinkedIn */}
                 <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
